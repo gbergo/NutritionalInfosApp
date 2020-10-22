@@ -39,11 +39,7 @@ page 50000 "ADM Nutritional Informations"
                     //FieldPropertyName = FieldPropertyValue;
                 }
 
-                field(Tot_carb_protein; Tot_carb_protein)
-                {
-                    ApplicationArea = All;
-                    //FieldPropertyName = FieldPropertyValue;
-                }
+
 
             }
         }
