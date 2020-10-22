@@ -22,6 +22,11 @@ page 50001 "ADM Nutr. Info Factbox"
                     ApplicationArea = All;
                     //FieldPropertyName = FieldPropertyValue;
                 }
+                field(Toro; Toro)
+                {
+                    ApplicationArea = All;
+                    //FieldPropertyName = FieldPropertyValue;
+                }
 
             }
         }
